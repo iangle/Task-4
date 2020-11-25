@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ab19b9e-f390-4dcc-bda2-b107f2ec3ab1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kIsY3t6UPG6SbfHrzCkWpA3xlq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Isaac\Documents\Task4\Task\src" />
+      <recent name="C:\Users\Isaac\Documents\Task4\Task" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ab19b9e-f390-4dcc-bda2-b107f2ec3ab1" name="Default Changelist" comment="" />
+      <created>1605399495390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605399495390</updated>
+      <workItem from="1605399520607" duration="1983000" />
+      <workItem from="1605486194688" duration="2411000" />
+      <workItem from="1605653210050" duration="9325000" />
+      <workItem from="1605813716912" duration="1639000" />
+      <workItem from="1605987878045" duration="5297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605488370264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605488370264" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1605662369231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605662369231" />
+    <state x="1288" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1605488217783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1288" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605488217783" />
+    <state x="342" y="140" key="new project wizard" timestamp="1605488397190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605488397190" />
+  </component>
+</project>
